@@ -1,1 +1,3 @@
-# Image-Stitching
+## Visualization
+
+![image](./result.png)
