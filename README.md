@@ -6,6 +6,8 @@
 4. Stitching image (warp images into same coordinate system): Homography
 
 
+
 ## Visualization
 
 ![image](./result.png)
+
